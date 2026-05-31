@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-11-01 12:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Preprint posted: <a href="https://doi.org/10.1101/2025.10.26.684377" target="_blank">Accurate processing of ultra-short immune signals by single macrophages</a>.
