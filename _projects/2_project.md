@@ -2,7 +2,7 @@
 layout: page
 title: Immune memory and response prediction
 description: Predicting future cellular responses from transcription-factor dynamics
-importance: 2
+importance: 3
 category: current
 img: assets/img/immune/response_prediction.png
 related_publications: true

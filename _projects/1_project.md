@@ -2,7 +2,7 @@
 layout: page
 title: Information encoding in immune cells
 description: How single macrophages detect and classify inflammatory signals
-importance: 1
+importance: 2
 category: current
 img: assets/img/immune/info_encoding.png
 related_publications: true

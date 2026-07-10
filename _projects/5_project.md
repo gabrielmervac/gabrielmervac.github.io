@@ -2,7 +2,7 @@
 layout: page
 title: Self-driving microfluidic lab for cell dynamics
 description: An autonomous closed-loop platform that runs its own live-cell experiments
-importance: 3
+importance: 1
 category: current
 img: assets/img/autonomous_chip/closed_loop.png
 related_publications: false
