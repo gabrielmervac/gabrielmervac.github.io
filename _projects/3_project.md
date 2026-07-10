@@ -2,7 +2,7 @@
 layout: page
 title: Cell-to-cell communication
 description: Information propagation across immune cell populations
-importance: 3
+importance: 4
 category: current
 ---
 
