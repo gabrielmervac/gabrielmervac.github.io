@@ -59,6 +59,30 @@ cv:
         highlights:
           - Arrival time distributions for finite-lived searchers
 
+    Teaching:
+      - company: National Autonomous University of Mexico (UNAM)
+        position: Teaching Assistant
+        location: Mexico City, Mexico
+        highlights:
+          - "Introduction to complex systems (2021)"
+          - "Statistical physics (2019–2021, 2017–2018)"
+          - "Electromagnetism II (2019)"
+          - "Electrical circuits and signals (2017)"
+          - "Digital machines with laboratory (2016)"
+          - "Robotics and controls (2016)"
+          - "Electromagnetism I (2014–2016)"
+
+    Mentoring:
+      - company: University of Chicago
+        position: Research Mentor
+        location: Chicago, IL
+        highlights:
+          - Mentored two postdoctoral researchers, four graduate students, and one high-school student in technical training related to microfluidics, cell culture, optical microscopy, mathematical modeling, and simulations
+          - Supervised experimental design and research projects for five mentees
+          - Advised two graduate students through their PhD candidacy processes
+          - Directed the PhD research of one graduate student, providing guidance on research direction, milestones, and thesis development
+          - "Mentor for a PhD student's Development Assistantship (Biological Sciences Division, 2026): guided an independent, project-based professionalization term and provided formal evaluation of the student's progress"
+
     Awards:
       - title: Alfonso Caso Medal — most distinguished doctoral student per program
         authors:
