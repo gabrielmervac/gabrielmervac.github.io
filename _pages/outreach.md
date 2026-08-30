@@ -14,16 +14,26 @@ Co-coordinator of the science-outreach program **“Clubes de Ciencia,”** fund
 - **2026** — Co-coordinator, Clubes de Ciencia (University of Chicago)
 - **2025** — Co-coordinator, Clubes de Ciencia (University of Chicago)
 
-<!-- PHOTO GALLERY — enable once images are added to assets/img/outreach/
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_1.jpg" title="Clubes de Ciencia" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_cohort.jpg" title="Clubes de Ciencia cohort" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_2.jpg" title="Clubes de Ciencia" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_microfluidics.jpg" title="Hands-on microfluidics workshop" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_3.jpg" title="Clubes de Ciencia" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_lab.jpg" title="Laboratory session" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
--->
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_microscope.jpg" title="Mentoring students at the microscope" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_talk.jpg" title="Leading a session" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/outreach/clubes_ceremony.jpg" title="Opening ceremony" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">Clubes de Ciencia workshops (2026): hands-on science, mentoring, and the full cohort.</div>
