@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "Stochastic synthesis-degradation processes: first-passage properties and connections with resetting"
-description: Preprint, 2026
+description: Physical Review E, 2026
+img: assets/img/papers/synthesis_degradation.png
 importance: 1
 category: publications
 related_publications: false
 ---
 
-**Preprint, 2026**
+**[Physical Review E 114, L022107 (2026)](https://journals.aps.org/pre/abstract/10.1103/c96q-zyp5)**
 
 Synthesis and degradation of proteins and other molecular structures are ubiquitous in cellular and intercellular processes, from viral replication to quorum sensing in bacteria and pattern formation in multicellular organisms. Despite this prevalence, the reaction kinetics of stochastic synthesis-degradation (SSD) processes — where independent diffusing particles are continuously born and destroyed at constant rates — are not well understood. This work adapts methods from the theory of stochastic resetting to derive the first-passage properties of a collection of independent particles undergoing arbitrary diffusive motion while subject to SSD.
 
