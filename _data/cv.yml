@@ -115,6 +115,19 @@ cv:
       - title: Highlight publication, Journal of Physics A (Biological Modelling context)
         date: 2018
 
+    Service & Outreach:
+      - company: Clubes de Ciencia (funded by the University of Chicago)
+        position: Co-coordinator
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - Co-coordinated the science-outreach program for two consecutive years (2025, 2026), organizing intensive hands-on workshops that connect students with active researchers
+
+      - company: Journal of Physics Communications
+        position: Peer Reviewer
+        highlights:
+          - Reviewed manuscripts on stochastic processes and statistical physics (Outstanding Reviewer Award, 2020)
+
     Skills:
       - name: Experimental
         icon: fa-solid fa-flask
