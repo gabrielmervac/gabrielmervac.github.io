@@ -41,9 +41,9 @@ cv:
         start_date: 2011
         end_date: 2015
         highlights:
-          - "Thesis: Automatization of the Z-scan technique and its application to the non-linear refractive index and third-order absorption coefficient for PMMA films doped with DR1"
+          - "Thesis: Automatization of the Z-scan technique and third-order optical properties of DR1-doped PMMA films"
 
-    Research Experience:
+    Experience:
       - company: University of Chicago — Pritzker School of Molecular Engineering
         position: Postdoctoral Researcher (Laboratory of Prof. Savaş Tay)
         location: Chicago, IL
@@ -61,11 +61,11 @@ cv:
         start_date: 2018
         end_date: 2022
         highlights:
-          - Studied the statistical properties of first-passage times of random searches in the presence of fluctuating environments
-          - Collaborated with international institutions to build physical models implementing stochastic resetting to optimize random searches
+          - Studied the statistical properties of first-passage times of random searches in fluctuating environments
+          - Collaborated internationally to build models implementing stochastic resetting to optimize random searches
           - Investigated population dynamics in a predator–prey system by integrating spatial mobility
 
-      - company: University Paris-Saclay — Laboratory of Theoretical Physics and Statistical Models (LPTMS)
+      - company: University Paris-Saclay — LPTMS
         position: Summer Graduate Researcher (Laboratory of Prof. Satya Majumdar)
         location: Paris, France
         start_date: 2022
@@ -82,209 +82,154 @@ cv:
           - Automated an optical setup to measure the nonlinear optical properties of organic materials
 
     Teaching:
-      - company: National Autonomous University of Mexico (UNAM)
-        position: Teaching Assistant
-        location: Mexico City, Mexico
-        highlights:
-          - "Introduction to complex systems (2021)"
-          - "Statistical physics (2019–2021, 2017–2018)"
-          - "Electromagnetism II (2019)"
-          - "Electrical circuits and signals (2017)"
-          - "Digital machines with laboratory (2016)"
-          - "Robotics and controls (2016)"
-          - "Electromagnetism I (2014–2016)"
+      - bullet: "**National Autonomous University of Mexico (UNAM)** — Teaching Assistant, Faculty of Sciences"
+      - label: Introduction to complex systems
+        details: "2021"
+      - label: Statistical physics
+        details: "2019–2021, 2017–2018"
+      - label: Electromagnetism II
+        details: "2019"
+      - label: Electrical circuits and signals
+        details: "2017"
+      - label: Digital machines with laboratory
+        details: "2016"
+      - label: Robotics and controls
+        details: "2016"
+      - label: Electromagnetism I
+        details: "2014–2016"
 
     Mentoring:
-      - company: University of Chicago
-        position: Research Mentor
-        location: Chicago, IL
-        highlights:
-          - Mentored two postdoctoral researchers, four graduate students, and one high-school student in technical training related to microfluidics, cell culture, optical microscopy, mathematical modeling, and simulations
-          - Supervised experimental design and research projects for five mentees
-          - Advised two graduate students through their PhD candidacy processes
-          - Directed the PhD research of one graduate student, providing guidance on research direction, milestones, and thesis development
-          - "Mentor for a PhD student's Development Assistantship (Biological Sciences Division, 2026): guided an independent, project-based professionalization term and provided formal evaluation of the student's progress"
+      - bullet: Mentored two postdoctoral researchers, four graduate students, and one high-school student in technical training related to microfluidics, cell culture, optical microscopy, mathematical modeling, and simulations
+      - bullet: Supervised experimental design and research projects for five mentees
+      - bullet: Advised two graduate students through their PhD candidacy processes
+      - bullet: Directed the PhD research of one graduate student, providing guidance on research direction, milestones, and thesis development
+      - bullet: "Mentor for a PhD student's Development Assistantship (University of Chicago Biological Sciences Division, 2026): guided an independent, project-based professionalization term and provided formal evaluation"
 
     Grants & Fellowships:
-      - title: "MRSEC grant DMR-2011854 — Outreach program"
-        date: 2026
-      - title: "MRSEC grant DMR-2011854 — Outreach program"
-        date: 2025
-      - title: "Outreach program “Clubes de Ciencia”, funded by the University of Chicago"
-        date: 2024
-      - title: "Ciencia de Frontera 2019, CONACYT (grant 10782)"
-        date: 2019
-      - title: "Ph.D. Scholarship, CONACYT"
-        date: 2019
-      - title: "DGAPA-PAPIIT IN108318 — Study of natural languages, genetic and protein"
-        date: 2018
-      - title: "Master Scholarship, CONACYT"
-        date: 2016
-      - title: "DGAPA-PAPIIT IN111515 — Meso-structured materials on photo-controlled liberation of molecules and drugs"
-        date: 2015
-      - title: "DGAPA-PAPIIT IN111413 — Sol-gel nano-materials on non-linear optical catalysis of solar cells"
-        date: 2013
+      - label: "2026"
+        details: MRSEC grant DMR-2011854 — Outreach program
+      - label: "2025"
+        details: MRSEC grant DMR-2011854 — Outreach program
+      - label: "2024"
+        details: Outreach program “Clubes de Ciencia”, funded by the University of Chicago
+      - label: "2019"
+        details: Ciencia de Frontera 2019, CONACYT (grant 10782)
+      - label: "2019"
+        details: Ph.D. Scholarship, CONACYT
+      - label: "2018"
+        details: DGAPA-PAPIIT IN108318 — Study of natural languages, genetic and protein
+      - label: "2016"
+        details: Master Scholarship, CONACYT
+      - label: "2015"
+        details: DGAPA-PAPIIT IN111515 — Meso-structured materials for photo-controlled liberation of molecules and drugs
+      - label: "2013"
+        details: DGAPA-PAPIIT IN111413 — Sol-gel nano-materials for non-linear optical catalysis of solar cells
 
-    Honors & Awards:
+    Awards:
       - title: Alfonso Caso Medal — most distinguished doctoral student per program
-        authors:
-          - UNAM
+        awarder: UNAM
         date: 2026
-
       - title: Juan Manuel Lozano Mejía Medal — best PhD thesis in Physics
-        authors:
-          - UNAM Institute of Physics
+        awarder: UNAM Institute of Physics
         date: 2022
-
       - title: PhD degree with honors
-        authors:
-          - UNAM
+        awarder: UNAM
         date: 2022
-
       - title: Outstanding Reviewer Award, Journal of Physics Communications
-        authors:
-          - IOP Publishing
+        awarder: IOP Publishing
         date: 2020
-
       - title: Juan Manuel Lozano Mejía Medal — best master thesis in Physics
-        authors:
-          - UNAM Institute of Physics
+        awarder: UNAM Institute of Physics
         date: 2019
-
       - title: Best poster award, Mexican School of Statistical Physics and Complex Systems
         date: 2019
-
       - title: Highlight publication, Journal of Physics A (Biological Modelling context)
         date: 2018
 
     Presentations:
-      - title: "Cell-to-cell communication: information transmission in the immune response (Talk)"
-        authors:
-          - Annual Symposium on Biomedicine and Immunology, Mexico
-        date: 2026
-      - title: "“From Cells to Organs with AI” Symposium (Talk)"
-        authors:
-          - National Institute for Theory and Mathematics in Biology, Chicago, IL
-        date: 2026
-      - title: "Information processing and immune response prediction via AI (Poster)"
-        authors:
-          - Science & Engineering Industry Expo 2025, Chicago, IL
-        date: 2025
-      - title: "Automated system for study of cellular communication in hydrogel-based dynamic microenvironments (Talk)"
-        authors:
-          - MicroTAS, Montreal, Canada
-        date: 2024
-      - title: "Biological systems in intermittent environments: from stochastic searches to immune response (Talk)"
-        authors:
-          - Institute of Physics, UNAM, Mexico City, Mexico
-        date: 2024
-      - title: "Limits of sensing in macrophages (Poster)"
-        authors:
-          - Chicago BioEngineering Conference, Chicago, IL
-        date: 2024
-      - title: "Intermittent resetting potentials (Talk & Poster)"
-        authors:
-          - Beg Rohu Summer School 2022 — Out of Equilibrium Dynamics, France
-        date: 2022
-      - title: "Random Search of Intermittent Targets (Talk)"
-        authors:
-          - XVII Congress of the Physical Science Graduate Students, Mexico City, Mexico
-        date: 2019
-      - title: "First hitting time to intermittent targets (Poster)"
-        authors:
-          - Mexican School of Statistical Physics and Complex Systems, Mexico City, Mexico; and Arnold Sommerfeld School “on the Physics of Life”, Munich, Germany
-        date: 2019
-      - title: "Light induces flows in colloidal suspensions (Poster)"
-        authors:
-          - LXI Mexican National Society of Physics Congress, Puebla, Mexico
-        date: 2018
-      - title: "Lotka–Volterra model with stochastic resetting (Talk)"
-        authors:
-          - Congress of the Physical Science Graduate Students, Mexico City, Mexico
-        date: 2017
-      - title: "Experimental study of two annular vortex impact (Poster)"
-        authors:
-          - LX Mexican National Society of Physics Congress, Monterrey, Mexico
-        date: 2017
-      - title: "Experimental device to measure the angle of linearly polarized light; Low-cost robotic arm for medical applications (Posters)"
-        authors:
-          - LVII Mexican National Society of Physics Congress, Mazatlán, Mexico
-        date: 2014
+      - label: "2026"
+        details: "Cell-to-cell communication: information transmission in the immune response (Talk) — Annual Symposium on Biomedicine and Immunology, Mexico"
+      - label: "2026"
+        details: "“From Cells to Organs with AI” Symposium (Talk) — National Institute for Theory and Mathematics in Biology, Chicago, IL"
+      - label: "2025"
+        details: "Information processing and immune response prediction via AI (Poster) — Science & Engineering Industry Expo, Chicago, IL"
+      - label: "2024"
+        details: "Automated system for study of cellular communication in hydrogel-based dynamic microenvironments (Talk) — MicroTAS, Montreal, Canada"
+      - label: "2024"
+        details: "Biological systems in intermittent environments: from stochastic searches to immune response (Talk) — Institute of Physics, UNAM, Mexico City"
+      - label: "2024"
+        details: "Limits of sensing in macrophages (Poster) — Chicago BioEngineering Conference, Chicago, IL"
+      - label: "2022"
+        details: "Intermittent resetting potentials (Talk & Poster) — Beg Rohu Summer School, France"
+      - label: "2019"
+        details: "Random Search of Intermittent Targets (Talk) — XVII Congress of the Physical Science Graduate Students, Mexico City"
+      - label: "2019"
+        details: "First hitting time to intermittent targets (Posters) — Mexican School of Statistical Physics and Complex Systems; and Arnold Sommerfeld School “on the Physics of Life”, Munich"
 
     Academic Service:
-      - title: "Co-coordinator — outreach program “Clubes de Ciencia” (University of Chicago)"
-        date: 2026
-      - title: "Co-coordinator — outreach program “Clubes de Ciencia” (University of Chicago)"
-        date: 2025
-      - title: "Reviewer — Mathematical and Computational Applications (MDPI)"
-        date: 2024
-      - title: "Reviewer — Journal of Physics A: Mathematical and Theoretical"
-        date: 2022
-      - title: "Reviewer — Physical Review Letters"
-        date: 2021
-      - title: "Reviewer — Journal of Physics Communications"
-        date: 2021
-      - title: "Reviewer — Physical Review E"
-        date: 2020
+      - label: "2026, 2025"
+        details: Co-coordinator — outreach program “Clubes de Ciencia” (University of Chicago)
+      - label: "2024"
+        details: Reviewer — Mathematical and Computational Applications (MDPI)
+      - label: "2022"
+        details: "Reviewer — Journal of Physics A: Mathematical and Theoretical"
+      - label: "2021"
+        details: Reviewer — Physical Review Letters
+      - label: "2021"
+        details: Reviewer — Journal of Physics Communications
+      - label: "2020"
+        details: Reviewer — Physical Review E
 
     Outreach & Engagement:
-      - title: "Clubes de Ciencia México, Oaxaca, Mexico"
-        date: 2026
-      - title: "South Side Science Festival, University of Chicago, Chicago, IL"
-        date: 2025
-      - title: "Clubes de Ciencia México, Oaxaca, Mexico"
-        date: 2025
-      - title: "South Side Science Festival, University of Chicago, Chicago, IL"
-        date: 2024
-      - title: "Biobits: Information Propagation in Nature (Workshop) — Clubes de Ciencia México, Oaxaca, Mexico"
-        date: 2024
-      - title: "South Side Science Festival, University of Chicago, Chicago, IL"
-        date: 2023
+      - label: "2026, 2025"
+        details: Clubes de Ciencia México, Oaxaca, Mexico
+      - label: "2025–2023"
+        details: South Side Science Festival, University of Chicago, Chicago, IL
+      - label: "2024"
+        details: "Biobits: Information Propagation in Nature (Workshop) — Clubes de Ciencia México, Oaxaca"
 
     Workshops & Courses:
-      - title: "The Beg Rohu Summer School: Out of Equilibrium Dynamics, Saint-Pierre-Quiberon, France"
-        date: 2022
-      - title: "Mexican School of Statistical Physics and Complex Systems, Mexico City, Mexico"
-        date: 2019
-      - title: "Arnold Sommerfeld School “on the Physics of Life”, Munich, Germany"
-        date: 2019
+      - label: "2022"
+        details: The Beg Rohu Summer School — Out of Equilibrium Dynamics, Saint-Pierre-Quiberon, France
+      - label: "2019"
+        details: Mexican School of Statistical Physics and Complex Systems, Mexico City
+      - label: "2019"
+        details: Arnold Sommerfeld School “on the Physics of Life”, Munich, Germany
 
-    Technical Skills:
+    Skills:
       - name: Experimental
         icon: fa-solid fa-flask
-        keywords: "Digital controls; combining microfluidics and bulk optics; microfluidics fabrication; fluorescence microscopy"
+        keywords: ["Digital controls", "microfluidics + bulk optics", "microfluidics fabrication", "fluorescence microscopy"]
       - name: Cell & Molecular Biology
         icon: fa-solid fa-dna
-        keywords: "Mammalian and bacterial cell culture; PCR; cloning"
+        keywords: ["Mammalian and bacterial cell culture", "PCR", "cloning"]
       - name: Analytics
         icon: fa-solid fa-square-root-variable
-        keywords: "Stochastic-dynamics simulations; Gillespie algorithm; inverse Laplace transforms; finite element methods; information theory"
+        keywords: ["Stochastic-dynamics simulations", "Gillespie algorithm", "inverse Laplace transforms", "finite element methods", "information theory"]
       - name: Programming
         icon: fa-solid fa-code
-        keywords: "C++, Java, Fortran 90, Python, ASM, MATLAB, Mathematica, LabVIEW; machine learning (LSTM, deep learning)"
+        keywords: ["C++", "Java", "Fortran 90", "Python", "MATLAB", "Mathematica", "LabVIEW", "machine learning (LSTM, deep learning)"]
       - name: Software & Tools
         icon: fa-solid fa-tools
-        keywords: "Windows, Linux, LaTeX, Git, Word, Excel, Origin, PowerPoint, Beamer"
+        keywords: ["Windows", "Linux", "LaTeX", "Git", "Origin", "PowerPoint", "Beamer"]
 
     Languages:
       - name: Spanish
         summary: Native speaker
-
       - name: English
         summary: Fluent
-
       - name: French
         summary: Intermediate
 
     Interests:
       - name: Research
         icon: fa-solid fa-microscope
-        keywords: "Statistical physics, immunology, information theory, stochastic processes, machine learning"
+        keywords: ["Statistical physics", "immunology", "information theory", "stochastic processes", "machine learning"]
 
     References:
       - name: Dr. Savaş Tay
-        summary: "Professor, University of Chicago (Pritzker School of Molecular Engineering) — tays@uchicago.edu"
+        reference: "Professor, University of Chicago (Pritzker School of Molecular Engineering) — tays@uchicago.edu"
       - name: Dr. Denis Pierre Boyer
-        summary: "Professor, UNAM (Institute of Physics) — boyer@fisica.unam.mx"
+        reference: "Professor, UNAM (Institute of Physics) — boyer@fisica.unam.mx"
       - name: Dr. Jorge Alfonso García Macedo
-        summary: "Professor, UNAM (Institute of Physics) — gamaj@fisica.unam.mx"
+        reference: "Professor, UNAM (Institute of Physics) — gamaj@fisica.unam.mx"
